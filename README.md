@@ -1,6 +1,7 @@
 # longify
 
 * A command to output longified ascii art.
+  - Inspired by Tweet from [@sheepla](https://github.com/sheepla): https://twitter.com/Sheeeeepla/status/1522199846870196225
 
 ## Installation
 
