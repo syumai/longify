@@ -46,7 +46,7 @@ $ cat cow.txt | longify -l 3 # specify length (default: random number in 3-13)
      |//YY \|/
      |||   |||
 
-# cat cow.txt | longify -p 7 # speficy longified position (default: center)
+# cat cow.txt | longify -p 7 # specify longified position (default: center)
            __n__n__
     .------`-\00/-'
    /  ##  ## (oo)
